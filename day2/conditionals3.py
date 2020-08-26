@@ -3,9 +3,7 @@
 Conditionals programming exercises
 
 Calificaciones
-"""
 
-"""
 If statements
 
 if, else, elif, continue, break
