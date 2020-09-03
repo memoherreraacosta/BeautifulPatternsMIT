@@ -6,12 +6,11 @@ RESTAURANT
 
 edad = int(input('¿Qué edad tiene? '   ))
 
-if(edad <= 10 && edad > 0){
+if (edad <= 10 and edad > 0):
     print("Menú infantil")
-}else if( edad > 10 && edad <=18){
+elif (edad > 10 and edad <=18):
     print("Postre gratis")
-}else if(edad > 18){
+elif edad > 18:
     print("Promoción 2x1")
-}else{
+else:
     print("Por favor introduzca un número válido")
-}
