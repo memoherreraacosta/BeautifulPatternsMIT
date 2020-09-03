@@ -6,7 +6,7 @@ Imprime los resultados usando alguna estructura de control como se muestra a con
 
 - Ejecución
 ```
-# python3 python3 Lista_Elementos.py
+python3 python3 Lista_Elementos.py
 # Ejemplo:
 HOLA  Mundo   
 2  0  2  0   
