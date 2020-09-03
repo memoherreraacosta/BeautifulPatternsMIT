@@ -5,10 +5,9 @@ Para comprobar los cambios imprime la lista antes y después de llevar a cabo la
 Si introduce la contraseña incorrecta debe marcar error
 
 ```
-
 - Ejecución
+python python3 Listas_Modificar.py
 ```
-# python python3 Listas_Modificar.py
 # Ejemplo:
 usuarios:   ['nicole', 'luis', 'roberto']
 conraseñas: ['hola123', 'tec21', 'soylomax']
