@@ -4,10 +4,9 @@ Crea un programa utilizando el lenguaje de programación Python que sea capaz de
 Utiliza una función llamada imprimir valores, que sea capaz de imprimir la pregunta con su respuesta. 
 
 ```
-
 - Ejecución
+python ListaFor.py
 ```
-# python ListaFor.py
 # Ejemplo:
 python ListaFor.py
 ¿Cual es tu nombre ?  	la respuesta es:  Leonardo
