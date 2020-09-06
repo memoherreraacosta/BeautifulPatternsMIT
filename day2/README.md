@@ -37,4 +37,9 @@
 1. [Formar patron D](while6.py): Reto de formar un patron impreso D
 1. [Serie de Fibonacci](reto1_fibonacci.py): Generar una serie Fibonacci usando solo condicionales
 
+#### Mujeres en la ciencia
 
+- [Margaret Hamilton](https://www.bbc.com/mundo/noticias-38097302)
+- [Grace Hopper](https://www.infobae.com/tecno/2017/03/08/grace-hopper-la-mujer-que-revoluciono-el-mundo-de-la-computacion-para-siempre/)
+- [Mujeres en la ciencia, Ada Lovelace, Marie Curie, Rosalind Franklin, entre muchas otras mujeres destacadas](https://elpais.com/especiales/2018/mujeres-de-la-ciencia/)
+- [Medal of freedom ceremony](https://www.youtube.com/watch?v=X1PNp_YggAA&ab_channel=DonDeCosta)
