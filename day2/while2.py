@@ -5,8 +5,9 @@ While loop
 
 x = int(input("Escoge un numero positivo 'x': "))
 
-while x < 100:
-    if x % 5 == 0:
-        print(x)
-    x+=1
+n = 0
+while n < 100:
+    if n % x == 0:
+        print(n)
+    n+=1
 
