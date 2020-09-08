@@ -6,6 +6,14 @@ For loop and iterators
 x = [1,2,3,4,5,6,7,8,9,10]
 print(x)
 
+# First element
+print(next(x))
+# Second element
+print(next(x))
+# Third element
+print(next(x))
+
+
 y = [numero for numero in range(10)]
 print(y)
 
