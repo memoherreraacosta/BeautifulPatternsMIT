@@ -1,7 +1,5 @@
 """
-
 Conditionals programming exercises
-
 For loop
 """
 

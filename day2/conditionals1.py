@@ -1,7 +1,5 @@
 """
-
 Conditionals programming exercises
-
 If statements
 if, else, elif, continue, break
 """

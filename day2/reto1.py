@@ -2,15 +2,14 @@
 Conditionals programming exercises
 While loop
 
-Escribe un codigo de tal forma que te de el patron
-de imagen:
-The pattern like :
+Escribe un codigo de tal forma que te de el siguiente patron
 
 *
 **
 ***
 ****
 
+Tu programa debe de formar el patron con la siguiente informacion solicitada
 x: caracter a imprimir
 n: numero de niveles
 """
