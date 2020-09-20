@@ -1,11 +1,7 @@
 """
-
 Conditionals programming exercises
-
 Calificaciones
-
 If statements
-
 if, else, elif, continue, break
 """
 
@@ -17,7 +13,7 @@ if 100 >= x:
     if 90 >= x:
         calificacion = "B"
         if 80 >= x:
-            calificacion = "C"
+            calificacion = "O"
             if 70 > x:
                 calificacion = "Numero Negativo" if x < 0 else "F"
 
