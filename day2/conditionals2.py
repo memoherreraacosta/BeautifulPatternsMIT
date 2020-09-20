@@ -1,11 +1,7 @@
 """
-
 Conditionals programming exercises
-
 Numero mas grande
-
 If statements
-
 if, else, elif, continue, break
 """
 
