@@ -289,9 +289,6 @@
     Tu programa debe de formar el patron con la siguiente informacion solicitada
     n: numero de niveles
     ```
-6. [Serie de Fibonacci](reto_fibonacci.py):
-   - Generar una [serie fibonacci](https://es.wikipedia.org/wiki/Sucesi%C3%B3n_de_Fibonacci) usando solo condicionales
-
 
 #### Mujeres en la ciencia
 
