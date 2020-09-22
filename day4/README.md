@@ -55,6 +55,7 @@
     Input data:
     Ingrese la cantidad de caracteres de la barra 'n': 10
     Ingresa la cantidad de tiempo de espera 't': 50 
+    Output data: XXXXXXXXXX
 
     ```
 
