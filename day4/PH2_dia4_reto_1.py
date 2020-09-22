@@ -14,6 +14,6 @@ def busqueda_binaria(lista, elemento):
 
 #Llamada para probar la funcion
 lista1 = [1,2,3,4,5,6,7,8,9,10]
-busca = 1
+busca = 5
 print(busqueda_binaria(lista1,busca))
 

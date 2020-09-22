@@ -12,4 +12,4 @@ def ofertas(monto):
 
 
 #Impresion para probar la funcion
-print("Tu monto total incluida la bonificacion correspondiente es: ",ofertas(55))
+print("Tu monto total incluida la bonificacion correspondiente es: ",ofertas(30))
