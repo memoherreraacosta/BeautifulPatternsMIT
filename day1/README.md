@@ -1,20 +1,24 @@
-Lista con elementos
+Día 1
 ==============
-Hola.
-```
+# Temas
+1.	Output
+2.	Comments
+3.	Variables
+3.1.	float, string, int.
+3.2.	booleans
+4.	Símbolos
+4.1.	operaciones básicas (+, -, *, /)
+4.2.	otros símbolos (%, ==, <, >, =!, <=, >= )
+5.	If (condicionales)
 
-- Ejecución
-```
-# python3 python3 Lista_Elementos.py
-# Ejemplo:
-HOLA  Mundo   
-2  0  2  0   
-1  2  3  probando...  accion!
+#Actividades de programación
 
-```
+### Hola Mundo
+1.	Crea un archivo y nómbralo hola_mundo.py
+    Este programa será un ejercicio para probar un output
+2.	Haz un comentario de una línea con tu nombre
+3.	Haz un comentario de línea múltiple con el nombre de esta actividad 
+4.	Imprime “Hola mundo”
 
-Instrucciones
---------------------
-1. Agrega de manera directa (en el código) los elementos de tu lista
-2. Recuerda seguir el formato de impresión
-3. Diviértete y da lo mejor de ti!
+
+
