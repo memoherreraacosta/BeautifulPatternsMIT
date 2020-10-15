@@ -58,11 +58,11 @@ Este programa será un ejercicio para probar las operaciones básicas matemátic
 5.	Imprime ```Ahora un número entero:```
 6.	Crea una variable n2 que reciba un input integer
 7.	Imprime el resultado de las siguientes operaciones:
-    a)  Potencia: ```n1 ** n2```
-    b)	División de enteros: ```n2 // n1```
-    c)	Módulo residuo: ```n2 % n1```
-    d)	División y suma:```n1 / n2 + n1```
-    e)	División y suma con paréntesis: ```n1 / (n2 + n1)```
+    1)  Potencia: ```n1 ** n2```
+    2)	División de enteros: ```n2 // n1```
+    3)	Módulo residuo: ```n2 % n1```
+    4)	División y suma:```n1 / n2 + n1```
+    5)	División y suma con paréntesis: ```n1 / (n2 + n1)```
 
 ### Cilindro
 1.	Crea un archivo y nómbralo cilindro.py
