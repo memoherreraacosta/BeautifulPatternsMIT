@@ -51,18 +51,18 @@ Este programa será un ejercicio para probar las operaciones básicas matemátic
 
 ### Operaciones 2
 1.	Crea un archivo y nómbralo operaciones_2.py
-    Este programa será un ejercicio para probar las más operaciones matemáticas en Python 
+    	Este programa será un ejercicio para probar las más operaciones matemáticas en Python 
 2.	Haz un comentario de una línea con tu nombre
 3.	Imprime ```Ingresa un número con decimal: ```
 4.	Crea una variable n1 que reciba un input float 
 5.	Imprime ```Ahora un número entero:```
 6.	Crea una variable n2 que reciba un input integer
 7.	Imprime el resultado de las siguientes operaciones:
-    a.  Potencia: ```n1 ** n2```
-    b.	División de enteros: ```n2 // n1```
-    c.	Módulo residuo: ```n2 % n1```
-    d.	División y suma:```n1 / n2 + n1```
-    e.	División y suma con paréntesis: ```n1 / (n2 + n1)```
+    a)  Potencia: ```n1 ** n2```
+    b)	División de enteros: ```n2 // n1```
+    c)	Módulo residuo: ```n2 % n1```
+    d)	División y suma:```n1 / n2 + n1```
+    e)	División y suma con paréntesis: ```n1 / (n2 + n1)```
 
 ### Cilindro
 1.	Crea un archivo y nómbralo cilindro.py
@@ -140,7 +140,7 @@ d.	Si es un numero negativo: Por favor introduzca un número válido
 	3)	Raiz cuadrada de n2
 	4)	Ceil de n1:  math.ceil(n1)
 	5)	Floor de n1: math.floor(n1)
-•	¿Qué hacen Ceil y Floor? 
+	6)	Qué hacen Ceil y Floor? 
 
 ## Máximo y mínimo
 1.	Crea un archivo reto_max_min.py
