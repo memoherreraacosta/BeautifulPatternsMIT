@@ -11,4 +11,4 @@ if opt == 1:
     print(str(temp) + " Celsius son " + str((temp * 9/5) + 32) + " Fahrenheit")
 elif opt == 2:
     temp = float(input('Introduzca aqui la temperatura en fahrenheit: '))
-    print(str(temp) + " herenheit son " + str((temp - 32 ) * 5/9) + " celsius")
+    print(str(temp) + " Fahrenheit son " + str((temp - 32 ) * 5/9) + " Celsius")
