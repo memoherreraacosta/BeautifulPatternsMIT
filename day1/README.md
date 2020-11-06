@@ -78,10 +78,10 @@ Este programa será un ejercicio para probar las operaciones básicas matemátic
 	En este programa simularás las opciones del restaurant dependiendo de la edad del cliente
 2.	Pregunta por la edad del cliente
 3.	Dependiendo de la edad haz un print de
-a.	Menor o igual a 10 años: Menú infantil
-b.	De 10 a 18: Postres gratis (utiliza el operador AND)
-c.	Mayor a 18: Promoción 2x1
-d.	Si es un numero negativo: Por favor introduzca un número válido
+	a.	Menor o igual a 10 años: Menú infantil
+	b.	De 10 a 18: Postres gratis (utiliza el operador AND)
+	c.	Mayor a 18: Promoción 2x1
+	d.	Si es un numero negativo: Por favor introduzca un número válido
 
 ### Par e impar
 1.	Crea un archivo par_impar.py
@@ -94,7 +94,7 @@ d.	Si es un numero negativo: Por favor introduzca un número válido
 			```8 % 2 = 0```
 			
 ### Convertidor de unidades
-1.	Crea un archivo convertidoremperatura.py
+1.	Crea un archivo convertidortemperatura.py
 	En este programa simularás un convertidor de unidades donde:
 		```(0 °C × 9/5) + 32 = 32 °F ```
 2.	Haz un comentario de una línea con tu nombre
